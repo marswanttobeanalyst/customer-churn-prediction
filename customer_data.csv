@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Tenure,Usage,MonthlyCharges,TotalCharges,Contract,PaperlessBilling,PaymentMethod,Churn
+1,56,Male,4,255.41,84.38,337.52,One year,No,Credit card,1
+2,69,Male,6,260.71,23.68,142.07999999999998,Two year,No,Mailed check,0
+3,46,Female,8,69.25,84.65,677.2,Month-to-month,Yes,Credit card,0
+4,32,Male,2,959.83,34.23,68.46,Month-to-month,No,Credit card,0
+5,60,Male,7,478.26,61.17,428.19,One year,Yes,Mailed check,0
+6,25,Female,1,895.81,84.66,84.66,One year,Yes,Credit card,1
+7,78,Male,6,322.22,40.31,241.86,Month-to-month,Yes,Bank transfer,0
+8,38,Male,1,125.23,39.66,39.66,Month-to-month,Yes,Mailed check,0
+9,56,Male,3,474.34,52.22,156.66,One year,Yes,Credit card,1
+10,75,Male,6,113.96,91.57,549.42,Month-to-month,Yes,Electronic check,1
+11,36,Male,2,486.02,20.04,40.08,One year,Yes,Mailed check,1
+12,40,Female,1,920.3,92.11,92.11,Month-to-month,No,Mailed check,1
+13,28,Male,9,520.77,32.3,290.7,One year,No,Electronic check,0
+14,28,Male,6,616.5,99.21,595.26,Two year,No,Credit card,1
+15,41,Male,0,156.64,96.39,0.0,One year,Yes,Credit card,1
+16,70,Male,7,43.74,59.57,416.99,One year,Yes,Mailed check,0
+17,53,Male,2,110.81,61.02,122.04,Two year,Yes,Mailed check,1
+18,57,Female,1,598.53,58.52,58.52,Month-to-month,Yes,Credit card,1
+19,41,Male,2,95.01,70.84,141.68,Two year,No,Credit card,1
+20,20,Female,4,375.99,27.26,109.04,One year,Yes,Bank transfer,0
+21,39,Female,7,550.09,22.61,158.26999999999998,Month-to-month,No,Mailed check,0
+22,70,Male,9,388.65,24.62,221.58,Two year,Yes,Mailed check,0
+23,19,Male,6,163.68,55.55,333.29999999999995,Month-to-month,No,Electronic check,0
+24,41,Male,6,273.79,42.04,252.24,Month-to-month,Yes,Bank transfer,0
+25,61,Male,6,928.32,69.76,418.56000000000006,Two year,No,Credit card,0
+26,47,Female,7,675.98,99.4,695.8000000000001,Month-to-month,Yes,Bank transfer,1
+27,55,Male,0,496.05,50.91,0.0,Two year,No,Credit card,0
+28,19,Male,3,12.71,65.91,197.73,One year,Yes,Credit card,0
+29,77,Male,5,992.42,53.25,266.25,Month-to-month,No,Bank transfer,1
+30,38,Male,8,671.45,87.78,702.24,One year,No,Mailed check,0
+31,50,Male,1,316.92,92.18,92.18,One year,Yes,Credit card,0
+32,29,Male,0,879.27,90.19,0.0,Month-to-month,No,Bank transfer,0
+33,75,Female,9,258.43,97.95,881.5500000000001,Two year,Yes,Electronic check,1
+34,39,Female,1,544.02,22.2,22.2,Month-to-month,Yes,Bank transfer,1
+35,78,Male,6,636.07,87.19,523.14,One year,Yes,Electronic check,1
+36,61,Male,2,221.06,80.14,160.28,One year,No,Credit card,1
+37,42,Male,9,978.4,38.3,344.7,Two year,No,Bank transfer,0
+38,66,Female,1,748.19,96.51,96.51,Month-to-month,Yes,Bank transfer,0
+39,44,Male,6,557.81,31.85,191.10000000000002,One year,Yes,Electronic check,0
+40,76,Female,1,180.59,74.36,74.36,One year,No,Bank transfer,0
+41,59,Male,2,53.86,37.99,75.98,One year,No,Bank transfer,1
+42,45,Male,6,320.06,54.51,327.06,Two year,No,Credit card,0
+43,77,Male,3,753.19,77.53,232.59,One year,Yes,Bank transfer,0
+44,33,Male,0,269.33,65.07,0.0,One year,Yes,Mailed check,0
+45,32,Female,4,539.56,54.2,216.8,Month-to-month,Yes,Electronic check,1
+46,79,Female,8,727.95,46.11,368.88,Month-to-month,Yes,Bank transfer,0
+47,79,Male,7,107.94,87.17,610.19,One year,Yes,Electronic check,1
+48,64,Male,8,685.3,31.51,252.08,One year,No,Electronic check,0
+49,79,Female,9,91.87,54.41,489.68999999999994,Month-to-month,Yes,Electronic check,0
+50,68,Female,8,965.13,92.3,738.4,Two year,No,Bank transfer,1
+51,61,Female,6,488.39,87.67,526.02,Two year,No,Bank transfer,1
+52,72,Female,3,150.68,52.08,156.24,Two year,Yes,Electronic check,0
+53,69,Male,4,342.38,81.05,324.2,Two year,No,Mailed check,1
+54,74,Female,0,413.42,85.85,0.0,Two year,Yes,Electronic check,1
+55,20,Male,0,758.19,91.11,0.0,Two year,No,Mailed check,1
+56,54,Female,2,743.42,63.56,127.12,Two year,Yes,Electronic check,0
+57,68,Female,7,611.94,36.36,254.51999999999998,Two year,Yes,Credit card,0
+58,24,Female,1,105.93,40.42,40.42,Month-to-month,No,Electronic check,1
+59,38,Female,3,151.57,43.66,130.98,Two year,Yes,Electronic check,0
+60,26,Female,1,93.76,67.5,67.5,Two year,No,Bank transfer,0
+61,56,Male,4,577.17,22.62,90.48,Two year,Yes,Mailed check,0
+62,35,Male,8,877.14,70.88,567.04,One year,Yes,Credit card,1
+63,21,Female,0,433.8,49.15,0.0,Month-to-month,Yes,Mailed check,1
+64,42,Female,4,160.85,43.62,174.48,Month-to-month,No,Credit card,0
+65,77,Male,8,558.04,90.36,722.88,Month-to-month,No,Electronic check,1
+66,31,Female,0,811.75,56.8,0.0,Two year,Yes,Bank transfer,0
+67,67,Female,8,741.71,27.6,220.8,Two year,No,Bank transfer,0
+68,75,Male,7,881.45,86.14,602.98,One year,Yes,Mailed check,1
+69,26,Female,3,277.9,23.81,71.42999999999999,Month-to-month,No,Bank transfer,0
+70,43,Female,9,193.95,78.14,703.26,Two year,No,Mailed check,1
+71,70,Male,4,879.82,81.91,327.64,Month-to-month,Yes,Mailed check,0
+72,19,Male,4,657.56,48.21,192.84,One year,Yes,Credit card,0
+73,37,Male,5,310.93,85.98,429.90000000000003,One year,Yes,Mailed check,0
+74,45,Female,6,742.35,61.25,367.5,One year,Yes,Credit card,0
+75,64,Male,7,815.12,57.06,399.42,Month-to-month,Yes,Bank transfer,1
+76,77,Male,7,614.98,23.63,165.41,Two year,No,Mailed check,0
+77,24,Male,1,687.88,43.2,43.2,Two year,No,Mailed check,0
+78,61,Male,8,375.26,94.48,755.84,One year,Yes,Electronic check,1
+79,78,Male,6,538.7,51.35,308.1,Two year,Yes,Mailed check,0
+80,25,Male,3,524.16,63.74,191.22,One year,Yes,Mailed check,0
+81,64,Female,3,848.05,62.56,187.68,Month-to-month,No,Electronic check,0
+82,52,Female,7,839.96,67.23,470.61,One year,Yes,Electronic check,0
+83,31,Male,3,832.68,24.91,74.73,Month-to-month,Yes,Bank transfer,0
+84,34,Male,5,11.03,48.97,244.85,One year,No,Mailed check,0
+85,53,Male,4,749.55,77.85,311.4,Two year,No,Bank transfer,0
+86,67,Female,2,758.68,36.04,72.08,Two year,No,Bank transfer,1
+87,57,Female,9,678.38,36.29,326.61,One year,No,Electronic check,0
+88,21,Female,1,756.26,20.81,20.81,Two year,Yes,Credit card,1
+89,19,Female,8,841.97,55.0,440.0,Two year,No,Bank transfer,0
+90,79,Female,9,470.32,90.62,815.58,Two year,No,Credit card,0
+91,23,Female,8,502.05,24.15,193.2,Month-to-month,Yes,Mailed check,1
+92,71,Female,0,124.71,35.29,0.0,Two year,Yes,Electronic check,1
+93,59,Female,9,385.38,44.81,403.29,Month-to-month,Yes,Mailed check,0
+94,21,Female,2,643.37,78.54,157.08,One year,No,Mailed check,0
+95,71,Male,7,780.4,71.25,498.75,Two year,Yes,Electronic check,0
+96,46,Male,5,217.21,53.28,266.4,Two year,No,Mailed check,0
+97,35,Male,4,137.82,80.73,322.92,Two year,No,Electronic check,1
+98,43,Male,4,663.04,68.77,275.08,One year,No,Credit card,1
+99,61,Female,5,1.88,91.68,458.40000000000003,Month-to-month,Yes,Mailed check,0
+100,51,Female,6,178.37,85.44,512.64,Month-to-month,No,Electronic check,1
+101,27,Male,0,29.07,40.23,0.0,Two year,Yes,Bank transfer,1
+102,79,Female,8,166.89,41.72,333.76,One year,Yes,Mailed check,0
+103,53,Male,2,181.32,30.03,60.06,One year,Yes,Credit card,1
+104,31,Female,3,387.67,46.96,140.88,One year,No,Electronic check,1
+105,48,Male,9,402.33,99.96,899.64,One year,No,Mailed check,0
+106,65,Female,0,874.26,52.46,0.0,One year,No,Mailed check,1
+107,32,Female,9,510.11,37.64,338.76,Month-to-month,Yes,Mailed check,1
+108,25,Male,2,723.4,81.0,162.0,Month-to-month,No,Credit card,0
+109,31,Female,1,104.14,63.4,63.4,Month-to-month,No,Electronic check,1
+110,40,Male,1,225.44,31.97,31.97,Two year,No,Bank transfer,1
+111,77,Male,0,702.94,50.46,0.0,One year,No,Bank transfer,1
+112,74,Male,7,52.8,53.16,372.12,Two year,No,Bank transfer,0
+113,79,Male,2,486.6,80.31,160.62,One year,Yes,Electronic check,1
+114,57,Female,2,599.37,21.65,43.3,Month-to-month,Yes,Bank transfer,1
+115,38,Female,5,602.15,41.52,207.60000000000002,Two year,Yes,Credit card,0
+116,33,Female,7,22.93,61.41,429.87,Month-to-month,Yes,Electronic check,0
+117,62,Male,8,322.11,41.51,332.08,One year,No,Mailed check,0
+118,35,Female,8,636.49,70.27,562.16,One year,Yes,Credit card,0
+119,64,Male,3,149.0,58.55,175.64999999999998,One year,No,Mailed check,1
+120,70,Female,4,695.42,48.94,195.76,Month-to-month,Yes,Bank transfer,1
+121,41,Female,1,745.93,95.94,95.94,One year,Yes,Credit card,0
+122,43,Female,8,981.97,70.57,564.56,Month-to-month,Yes,Electronic check,0
+123,42,Male,7,209.84,30.4,212.79999999999998,Two year,No,Credit card,1
+124,77,Female,2,825.13,64.81,129.62,One year,No,Mailed check,0
+125,77,Female,8,520.3,82.46,659.68,One year,Yes,Electronic check,0
+126,77,Male,2,373.46,76.68,153.36,One year,No,Credit card,1
+127,62,Female,8,122.38,33.77,270.16,Two year,Yes,Credit card,0
+128,58,Male,1,735.51,97.79,97.79,One year,Yes,Credit card,0
+129,46,Female,9,235.86,55.91,503.18999999999994,Month-to-month,Yes,Credit card,0
+130,32,Male,8,371.42,32.72,261.76,Month-to-month,No,Electronic check,0
+131,62,Male,7,62.54,34.42,240.94,One year,Yes,Mailed check,0
+132,18,Female,8,801.37,27.86,222.88,One year,Yes,Credit card,0
+133,42,Male,4,766.59,84.28,337.12,Two year,Yes,Electronic check,1
+134,24,Male,1,733.62,29.76,29.76,Two year,No,Mailed check,0
+135,26,Male,7,299.44,30.01,210.07000000000002,Two year,Yes,Credit card,0
+136,41,Male,5,173.48,88.04,440.20000000000005,One year,No,Mailed check,0
+137,18,Male,7,637.55,47.57,332.99,Two year,Yes,Mailed check,0
+138,61,Male,4,496.17,22.47,89.88,Two year,No,Electronic check,0
+139,25,Female,9,178.25,24.15,217.35,Month-to-month,Yes,Mailed check,0
+140,41,Male,1,685.91,31.37,31.37,Two year,Yes,Electronic check,0
+141,28,Male,5,991.13,37.07,185.35,Month-to-month,No,Credit card,0
+142,68,Female,4,747.22,73.21,292.84,Month-to-month,No,Mailed check,0
+143,34,Female,4,739.99,32.59,130.36,Two year,Yes,Mailed check,1
+144,25,Female,0,950.31,29.51,0.0,Month-to-month,No,Bank transfer,0
+145,52,Female,1,202.94,81.18,81.18,One year,Yes,Credit card,1
+146,52,Female,7,565.55,73.68,515.76,One year,Yes,Credit card,0
+147,50,Female,2,979.65,54.83,109.66,Two year,Yes,Bank transfer,1
+148,76,Female,9,165.29,63.94,575.46,One year,No,Bank transfer,1
+149,22,Male,2,700.25,44.96,89.92,Month-to-month,Yes,Electronic check,1
+150,59,Male,7,585.81,58.6,410.2,One year,No,Electronic check,0
+151,56,Female,7,586.48,60.53,423.71000000000004,Two year,Yes,Mailed check,0
+152,75,Male,1,697.67,50.98,50.98,Two year,No,Mailed check,0
+153,58,Male,7,929.62,92.53,647.71,Month-to-month,No,Mailed check,1
+154,45,Male,0,782.58,21.28,0.0,Two year,Yes,Mailed check,1
+155,24,Female,5,56.14,82.57,412.84999999999997,One year,No,Electronic check,1
+156,26,Female,7,852.73,29.95,209.65,Two year,Yes,Credit card,0
+157,25,Male,2,225.54,83.8,167.6,Month-to-month,Yes,Mailed check,1
+158,29,Female,7,376.91,69.27,484.89,Two year,Yes,Credit card,1
+159,51,Male,0,461.73,87.46,0.0,One year,Yes,Mailed check,1
+160,50,Male,8,480.91,27.8,222.4,Month-to-month,Yes,Bank transfer,0
+161,65,Male,8,435.18,64.72,517.76,One year,No,Mailed check,1
+162,72,Male,4,937.35,60.09,240.36,Month-to-month,Yes,Mailed check,1
+163,40,Female,9,706.02,76.5,688.5,Two year,No,Mailed check,0
+164,79,Female,3,631.17,62.74,188.22,Month-to-month,No,Electronic check,1
+165,41,Female,5,49.84,63.26,316.3,Month-to-month,Yes,Bank transfer,0
+166,54,Male,6,903.91,54.37,326.21999999999997,Two year,No,Mailed check,0
+167,52,Female,4,909.39,44.71,178.84,One year,Yes,Mailed check,0
+168,61,Male,9,780.21,58.58,527.22,Two year,No,Credit card,0
+169,57,Female,8,7.03,29.48,235.84,Month-to-month,No,Bank transfer,1
+170,39,Male,2,57.28,96.92,193.84,Two year,No,Mailed check,0
+171,44,Male,6,225.22,77.15,462.90000000000003,Month-to-month,Yes,Credit card,0
+172,52,Male,9,131.35,96.2,865.8000000000001,Two year,No,Credit card,1
+173,18,Female,9,398.84,38.14,343.26,Two year,Yes,Electronic check,0
+174,52,Female,4,922.62,90.35,361.4,One year,No,Credit card,0
+175,54,Female,6,472.06,84.7,508.20000000000005,Month-to-month,No,Mailed check,1
+176,64,Female,1,13.4,74.17,74.17,One year,No,Electronic check,0
+177,31,Male,3,282.75,70.0,210.0,Month-to-month,No,Electronic check,1
+178,20,Female,1,44.59,45.32,45.32,Two year,Yes,Mailed check,1
+179,18,Female,6,36.29,85.31,511.86,Month-to-month,Yes,Bank transfer,0
+180,22,Male,1,275.72,60.12,60.12,One year,No,Credit card,1
+181,43,Male,0,275.61,25.67,0.0,One year,No,Electronic check,1
+182,72,Male,8,787.13,45.03,360.24,One year,Yes,Bank transfer,0
+183,31,Female,0,974.83,94.82,0.0,Month-to-month,Yes,Mailed check,1
+184,56,Male,7,371.21,88.05,616.35,One year,Yes,Credit card,0
+185,44,Male,1,428.89,98.55,98.55,One year,Yes,Credit card,0
+186,26,Male,7,844.79,70.24,491.67999999999995,One year,No,Electronic check,0
+187,32,Female,2,268.14,39.8,79.6,Two year,No,Credit card,1
+188,32,Male,5,156.38,33.03,165.15,Two year,Yes,Credit card,1
+189,43,Female,2,853.09,34.95,69.9,Month-to-month,Yes,Credit card,1
+190,59,Female,6,46.5,21.58,129.48,Month-to-month,Yes,Credit card,1
+191,77,Male,9,619.7,51.25,461.25,One year,Yes,Mailed check,1
+192,30,Male,8,561.99,35.31,282.48,Two year,Yes,Bank transfer,0
+193,68,Female,1,345.92,52.93,52.93,One year,Yes,Mailed check,0
+194,49,Male,4,315.19,94.8,379.2,One year,No,Mailed check,1
+195,56,Male,5,771.86,54.44,272.2,Two year,No,Electronic check,0
+196,66,Female,3,86.42,90.24,270.71999999999997,Two year,No,Credit card,1
+197,69,Female,3,236.78,68.44,205.32,Two year,Yes,Mailed check,1
+198,78,Male,3,732.45,39.77,119.31,Month-to-month,Yes,Credit card,1
+199,49,Female,1,548.32,48.47,48.47,Month-to-month,Yes,Mailed check,1
+200,21,Male,3,127.99,26.71,80.13,One year,No,Mailed check,0
+201,47,Male,0,882.14,46.68,0.0,Month-to-month,Yes,Electronic check,0
+202,54,Male,5,393.45,74.2,371.0,Two year,Yes,Bank transfer,0
+203,40,Female,0,827.87,25.77,0.0,Two year,No,Bank transfer,0
+204,56,Male,9,787.71,36.43,327.87,Month-to-month,Yes,Mailed check,0
+205,62,Male,5,624.43,50.52,252.60000000000002,One year,No,Electronic check,0
+206,32,Male,0,494.48,98.56,0.0,One year,No,Credit card,0
+207,60,Female,5,979.55,82.79,413.95000000000005,Month-to-month,Yes,Credit card,1
+208,46,Female,9,144.97,78.68,708.1200000000001,One year,No,Mailed check,1
+209,53,Female,7,725.16,29.3,205.1,One year,Yes,Bank transfer,1
+210,30,Female,1,191.19,82.48,82.48,One year,No,Electronic check,1
+211,49,Female,1,338.26,82.82,82.82,Two year,Yes,Bank transfer,1
+212,24,Male,3,308.7,68.09,204.27,Two year,No,Credit card,1
+213,76,Female,2,947.04,99.23,198.46,Month-to-month,Yes,Bank transfer,1
+214,68,Female,3,967.36,46.02,138.06,Two year,No,Credit card,0
+215,39,Female,6,183.02,95.3,571.8,One year,No,Electronic check,0
+216,45,Male,0,22.04,93.18,0.0,Two year,No,Electronic check,0
+217,19,Female,5,720.01,20.92,104.60000000000001,Month-to-month,Yes,Mailed check,0
+218,59,Female,2,417.99,56.01,112.02,Two year,Yes,Mailed check,1
+219,62,Male,9,88.84,98.17,883.53,One year,No,Bank transfer,1
+220,79,Female,6,683.75,28.25,169.5,One year,Yes,Electronic check,1
+221,74,Male,9,545.11,63.82,574.38,Month-to-month,No,Electronic check,0
+222,70,Male,1,980.52,98.32,98.32,Two year,Yes,Mailed check,1
+223,23,Male,1,227.41,64.44,64.44,Two year,No,Credit card,1
+224,45,Male,3,403.98,35.19,105.57,Two year,Yes,Bank transfer,0
+225,45,Male,0,542.55,66.57,0.0,One year,No,Bank transfer,1
+226,61,Female,2,791.7,36.36,72.72,Month-to-month,No,Mailed check,1
+227,61,Male,8,548.84,61.58,492.64,Two year,No,Electronic check,0
+228,37,Male,6,612.9,25.92,155.52,One year,No,Mailed check,0
+229,47,Female,6,226.15,68.44,410.64,One year,Yes,Mailed check,0
+230,79,Male,3,846.92,61.34,184.02,One year,No,Mailed check,1
+231,28,Female,1,428.63,79.21,79.21,Two year,Yes,Mailed check,0
+232,75,Female,3,140.96,70.46,211.38,Two year,Yes,Credit card,0
+233,72,Female,5,664.19,63.97,319.85,Two year,No,Credit card,0
+234,45,Male,2,216.09,75.18,150.36,Two year,Yes,Electronic check,1
+235,42,Male,0,97.56,31.52,0.0,Two year,Yes,Mailed check,0
+236,56,Male,7,861.99,67.63,473.40999999999997,Two year,Yes,Credit card,0
+237,79,Female,4,460.16,33.77,135.08,Two year,No,Electronic check,0
+238,50,Male,4,749.28,94.04,376.16,Two year,Yes,Mailed check,0
+239,18,Male,3,290.59,25.47,76.41,Two year,Yes,Bank transfer,1
+240,74,Male,5,786.97,54.43,272.15,One year,No,Credit card,0
+241,44,Female,2,111.94,75.66,151.32,Two year,No,Electronic check,1
+242,79,Female,8,355.97,56.64,453.12,Month-to-month,Yes,Bank transfer,0
+243,74,Male,4,978.06,27.37,109.48,One year,No,Mailed check,0
+244,69,Male,2,793.99,64.27,128.54,Two year,Yes,Mailed check,0
+245,30,Male,0,497.26,71.33,0.0,Month-to-month,Yes,Mailed check,1
+246,58,Male,9,339.78,76.3,686.6999999999999,Two year,Yes,Credit card,0
+247,20,Female,5,872.14,49.86,249.3,Month-to-month,No,Electronic check,0
+248,56,Female,1,544.85,65.09,65.09,Month-to-month,Yes,Bank transfer,1
+249,23,Female,2,758.43,56.05,112.1,Month-to-month,No,Electronic check,1
+250,25,Female,0,754.11,73.76,0.0,Month-to-month,No,Credit card,0
+251,44,Male,8,17.95,66.68,533.44,One year,Yes,Electronic check,0
+252,26,Male,7,126.25,62.06,434.42,One year,No,Credit card,0
+253,79,Male,1,659.63,39.96,39.96,Month-to-month,No,Mailed check,1
+254,54,Female,7,161.62,20.16,141.12,Two year,No,Bank transfer,0
+255,50,Male,8,255.49,33.93,271.44,Month-to-month,No,Mailed check,0
+256,68,Female,0,946.64,29.37,0.0,One year,No,Electronic check,1
+257,59,Female,4,560.18,55.93,223.72,Two year,Yes,Mailed check,0
+258,61,Male,7,750.73,68.98,482.86,One year,No,Bank transfer,0
+259,41,Male,1,557.98,37.05,37.05,One year,Yes,Mailed check,1
+260,32,Male,3,552.51,95.12,285.36,Two year,Yes,Bank transfer,0
+261,76,Female,6,94.15,20.53,123.18,Month-to-month,Yes,Bank transfer,0
+262,71,Male,2,343.66,81.78,163.56,Month-to-month,Yes,Mailed check,1
+263,49,Female,4,282.43,70.02,280.08,Month-to-month,Yes,Credit card,1
+264,49,Male,7,390.73,49.88,349.16,Month-to-month,Yes,Electronic check,0
+265,41,Female,9,798.34,24.04,216.35999999999999,Two year,No,Credit card,0
+266,58,Female,2,371.93,70.2,140.4,Two year,No,Credit card,0
+267,69,Male,3,451.7,50.85,152.55,Two year,No,Mailed check,1
+268,66,Female,8,397.38,94.9,759.2,One year,Yes,Electronic check,0
+269,79,Female,6,93.41,63.36,380.15999999999997,Two year,No,Electronic check,0
+270,66,Male,0,441.07,95.17,0.0,Month-to-month,No,Credit card,0
+271,75,Female,3,195.61,37.64,112.92,One year,No,Mailed check,0
+272,69,Male,3,186.72,78.06,234.18,Month-to-month,Yes,Electronic check,0
+273,29,Female,8,94.04,69.38,555.04,Month-to-month,No,Credit card,0
+274,79,Male,5,356.67,79.15,395.75,Two year,Yes,Electronic check,0
+275,56,Male,8,757.48,37.17,297.36,Two year,No,Mailed check,1
+276,19,Female,5,276.44,73.2,366.0,Month-to-month,Yes,Mailed check,1
+277,20,Female,5,312.35,59.84,299.20000000000005,Month-to-month,Yes,Mailed check,0
+278,66,Female,4,642.67,79.43,317.72,One year,Yes,Electronic check,0
+279,54,Female,4,195.84,46.16,184.64,Two year,No,Bank transfer,0
+280,66,Female,1,896.96,91.2,91.2,One year,No,Electronic check,0
+281,73,Male,7,520.19,26.74,187.17999999999998,One year,Yes,Bank transfer,0
+282,34,Female,7,447.6,84.58,592.06,One year,No,Mailed check,0
+283,76,Male,0,557.82,88.91,0.0,Month-to-month,Yes,Credit card,0
+284,66,Male,7,166.03,85.38,597.66,One year,Yes,Bank transfer,1
+285,19,Female,4,613.47,61.02,244.08,One year,No,Mailed check,0
+286,19,Male,1,363.1,55.07,55.07,Month-to-month,No,Mailed check,1
+287,45,Male,1,897.19,99.7,99.7,Two year,No,Bank transfer,0
+288,71,Male,5,168.85,38.33,191.64999999999998,Two year,Yes,Credit card,0
+289,40,Male,8,507.05,63.75,510.0,One year,Yes,Mailed check,0
+290,54,Female,0,598.11,73.65,0.0,Month-to-month,No,Bank transfer,1
+291,49,Male,5,33.38,76.07,380.34999999999997,Two year,Yes,Credit card,1
+292,50,Female,8,363.69,36.32,290.56,One year,No,Credit card,1
+293,18,Female,7,732.64,72.32,506.23999999999995,One year,Yes,Mailed check,1
+294,36,Male,5,820.38,85.47,427.35,Month-to-month,No,Electronic check,0
+295,79,Female,2,313.16,24.0,48.0,One year,No,Electronic check,1
+296,19,Female,7,798.59,92.92,650.44,Two year,Yes,Mailed check,0
+297,70,Female,8,967.76,22.36,178.88,Month-to-month,No,Credit card,0
+298,61,Male,0,856.87,48.48,0.0,Two year,No,Mailed check,0
+299,43,Female,8,117.64,21.27,170.16,Two year,Yes,Bank transfer,0
+300,49,Female,5,739.73,26.17,130.85000000000002,Two year,No,Electronic check,0
+301,23,Female,5,319.67,92.89,464.45,One year,Yes,Bank transfer,0
+302,49,Male,3,988.42,48.39,145.17000000000002,One year,No,Mailed check,0
+303,72,Female,0,485.36,53.98,0.0,Two year,Yes,Mailed check,1
+304,21,Male,9,122.43,37.23,335.07,Two year,No,Credit card,0
+305,72,Male,7,725.19,67.77,474.39,Month-to-month,No,Credit card,0
+306,28,Male,1,323.01,67.58,67.58,Month-to-month,No,Credit card,0
+307,73,Male,0,997.08,49.78,0.0,One year,No,Bank transfer,0
+308,76,Male,1,979.78,46.64,46.64,One year,Yes,Credit card,0
+309,34,Male,0,656.13,90.8,0.0,Month-to-month,Yes,Mailed check,0
+310,55,Female,0,129.83,50.66,0.0,Two year,Yes,Credit card,1
+311,41,Male,8,686.86,59.48,475.84,One year,Yes,Electronic check,0
+312,22,Female,0,93.03,42.66,0.0,Two year,Yes,Credit card,1
+313,69,Female,3,29.36,82.94,248.82,Month-to-month,Yes,Bank transfer,0
+314,51,Male,9,822.96,51.8,466.2,One year,Yes,Electronic check,0
+315,23,Female,5,209.75,61.09,305.45000000000005,One year,No,Electronic check,1
+316,39,Female,6,379.03,40.27,241.62,Month-to-month,No,Electronic check,0
+317,28,Female,1,973.46,99.01,99.01,One year,No,Bank transfer,1
+318,65,Female,5,336.84,43.32,216.6,Month-to-month,No,Mailed check,0
+319,33,Male,6,296.49,81.66,489.96,One year,Yes,Credit card,0
+320,50,Female,9,918.21,54.2,487.8,Month-to-month,Yes,Electronic check,0
+321,26,Male,9,110.75,36.5,328.5,One year,Yes,Electronic check,0
+322,77,Female,1,759.58,83.98,83.98,Two year,No,Electronic check,0
+323,76,Female,1,988.07,46.69,46.69,Two year,Yes,Mailed check,1
+324,23,Male,9,901.3,89.22,802.98,Two year,No,Mailed check,0
+325,33,Female,6,651.67,93.22,559.3199999999999,One year,Yes,Bank transfer,1
+326,46,Female,0,314.06,88.79,0.0,One year,Yes,Mailed check,1
+327,20,Female,7,254.32,22.8,159.6,Two year,Yes,Credit card,0
+328,37,Male,2,819.26,82.99,165.98,Two year,Yes,Bank transfer,0
+329,77,Female,5,879.82,52.91,264.54999999999995,Month-to-month,No,Bank transfer,1
+330,76,Male,8,525.43,89.9,719.2,Month-to-month,No,Credit card,1
+331,53,Female,5,244.34,71.04,355.20000000000005,Month-to-month,Yes,Credit card,0
+332,36,Male,8,112.94,86.69,693.52,Two year,No,Credit card,0
+333,43,Male,6,87.18,59.95,359.70000000000005,Two year,Yes,Bank transfer,0
+334,20,Female,8,719.08,62.8,502.4,Two year,Yes,Bank transfer,0
+335,36,Female,1,420.12,31.55,31.55,Month-to-month,Yes,Bank transfer,1
+336,37,Male,7,905.36,82.72,579.04,One year,Yes,Credit card,1
+337,49,Male,7,739.67,53.55,374.84999999999997,Two year,No,Credit card,0
+338,24,Female,1,191.26,60.01,60.01,One year,Yes,Electronic check,1
+339,69,Male,3,613.78,82.81,248.43,One year,Yes,Mailed check,0
+340,58,Female,6,435.51,67.91,407.46,One year,No,Electronic check,0
+341,50,Female,3,577.25,36.09,108.27000000000001,Month-to-month,Yes,Credit card,0
+342,57,Female,3,738.07,67.22,201.66,One year,No,Bank transfer,0
+343,56,Female,5,806.2,52.61,263.05,Two year,Yes,Credit card,0
+344,35,Male,9,843.74,57.56,518.04,Month-to-month,Yes,Mailed check,0
+345,57,Female,5,253.97,22.26,111.30000000000001,Two year,Yes,Electronic check,1
+346,18,Male,9,31.12,36.8,331.2,Two year,Yes,Electronic check,0
+347,28,Female,2,739.29,42.48,84.96,Month-to-month,Yes,Bank transfer,1
+348,45,Male,8,106.34,77.04,616.32,Two year,Yes,Electronic check,1
+349,74,Female,9,314.92,20.92,188.28000000000003,Two year,No,Electronic check,1
+350,42,Male,1,3.82,52.7,52.7,Month-to-month,Yes,Credit card,1
+351,67,Male,5,681.67,93.92,469.6,Two year,No,Electronic check,1
+352,40,Female,6,167.13,28.95,173.7,One year,No,Electronic check,1
+353,48,Female,8,655.28,61.31,490.48,Two year,Yes,Electronic check,0
+354,47,Female,2,991.74,82.92,165.84,One year,No,Bank transfer,1
+355,59,Female,9,72.67,95.4,858.6,Two year,Yes,Bank transfer,0
+356,52,Male,2,77.08,79.74,159.48,Month-to-month,No,Credit card,1
+357,24,Female,6,340.38,77.65,465.90000000000003,Month-to-month,Yes,Electronic check,0
+358,77,Male,3,866.39,86.12,258.36,Two year,No,Bank transfer,1
+359,33,Male,7,215.53,55.7,389.90000000000003,Month-to-month,No,Bank transfer,0
+360,43,Female,6,360.38,84.47,506.82,Two year,Yes,Credit card,1
+361,65,Male,4,68.51,20.64,82.56,Month-to-month,No,Mailed check,0
+362,74,Male,6,763.16,93.96,563.76,One year,Yes,Electronic check,0
+363,69,Male,2,408.31,55.46,110.92,Two year,Yes,Bank transfer,1
+364,77,Male,1,759.25,64.27,64.27,One year,Yes,Credit card,0
+365,66,Female,5,903.61,40.39,201.95,One year,Yes,Credit card,1
+366,19,Female,1,232.76,79.4,79.4,Two year,Yes,Credit card,1
+367,18,Female,2,807.4,26.13,52.26,One year,No,Bank transfer,1
+368,65,Female,5,59.09,89.81,449.05,Two year,No,Electronic check,0
+369,79,Male,4,898.85,86.25,345.0,One year,No,Mailed check,0
+370,29,Male,7,650.77,37.28,260.96000000000004,Two year,Yes,Electronic check,1
+371,22,Female,8,874.23,84.75,678.0,Two year,No,Credit card,1
+372,54,Female,2,0.19,82.91,165.82,Month-to-month,No,Credit card,1
+373,49,Female,9,169.08,70.58,635.22,Two year,No,Mailed check,0
+374,76,Male,2,389.76,49.88,99.76,Two year,No,Electronic check,0
+375,72,Female,2,379.5,41.72,83.44,One year,No,Credit card,0
+376,26,Female,5,226.73,38.54,192.7,Two year,Yes,Credit card,1
+377,58,Female,0,381.61,45.49,0.0,Month-to-month,Yes,Electronic check,1
+378,52,Male,6,128.85,92.28,553.6800000000001,One year,No,Credit card,0
+379,36,Male,0,412.76,26.21,0.0,One year,Yes,Electronic check,0
+380,65,Male,4,802.35,86.31,345.24,Month-to-month,Yes,Credit card,1
+381,33,Male,9,479.07,47.91,431.18999999999994,One year,No,Electronic check,0
+382,20,Male,7,18.0,61.73,432.10999999999996,One year,No,Mailed check,0
+383,37,Male,3,421.44,83.56,250.68,One year,Yes,Credit card,1
+384,41,Male,4,27.18,90.75,363.0,One year,No,Mailed check,1
+385,71,Male,3,966.24,47.58,142.74,Month-to-month,Yes,Credit card,0
+386,73,Female,3,127.45,56.95,170.85000000000002,Month-to-month,Yes,Credit card,0
+387,50,Female,7,707.69,53.16,372.12,One year,No,Bank transfer,0
+388,41,Male,1,972.78,21.06,21.06,One year,Yes,Electronic check,1
+389,69,Male,0,826.04,43.68,0.0,Month-to-month,Yes,Mailed check,1
+390,28,Female,2,699.32,56.74,113.48,Month-to-month,Yes,Mailed check,1
+391,66,Male,8,839.46,52.89,423.12,Month-to-month,No,Mailed check,0
+392,25,Male,3,981.8,77.75,233.25,One year,No,Electronic check,1
+393,53,Male,9,621.34,50.78,457.02,One year,No,Bank transfer,0
+394,55,Female,4,559.18,59.15,236.6,Two year,No,Mailed check,1
+395,57,Female,1,628.24,54.37,54.37,Month-to-month,Yes,Electronic check,1
+396,37,Female,3,532.68,79.25,237.75,One year,No,Credit card,0
+397,79,Female,1,635.09,89.04,89.04,Month-to-month,No,Mailed check,1
+398,52,Female,1,449.84,62.55,62.55,One year,No,Mailed check,0
+399,65,Male,3,218.44,83.15,249.45000000000002,Month-to-month,No,Bank transfer,1
+400,79,Female,5,120.25,43.74,218.70000000000002,One year,Yes,Mailed check,1
+401,42,Male,6,68.34,63.31,379.86,Two year,Yes,Mailed check,1
+402,52,Male,9,263.32,47.62,428.58,Two year,Yes,Credit card,0
+403,42,Female,2,46.12,53.14,106.28,Month-to-month,No,Electronic check,0
+404,46,Female,2,567.17,78.59,157.18,One year,No,Electronic check,1
+405,35,Male,9,283.83,90.53,814.77,One year,Yes,Bank transfer,0
+406,63,Male,5,824.53,29.72,148.6,Month-to-month,No,Credit card,0
+407,35,Male,2,74.24,70.77,141.54,One year,No,Electronic check,1
+408,19,Female,1,226.35,66.57,66.57,Month-to-month,Yes,Credit card,1
+409,71,Female,7,730.25,29.47,206.29,One year,Yes,Electronic check,1
+410,52,Female,4,598.81,36.95,147.8,Month-to-month,No,Credit card,0
+411,33,Female,0,64.49,44.88,0.0,One year,No,Bank transfer,1
+412,78,Female,2,877.24,33.35,66.7,Month-to-month,No,Mailed check,1
+413,58,Male,9,877.26,39.5,355.5,One year,Yes,Bank transfer,0
+414,53,Female,7,330.41,41.41,289.87,Two year,Yes,Electronic check,1
+415,50,Male,3,340.41,46.85,140.55,One year,Yes,Bank transfer,0
+416,21,Male,6,989.03,79.95,479.70000000000005,Month-to-month,Yes,Mailed check,0
+417,50,Male,9,626.18,65.75,591.75,Two year,No,Bank transfer,1
+418,31,Female,1,531.32,98.9,98.9,One year,Yes,Electronic check,0
+419,38,Female,6,838.15,53.18,319.08,Two year,Yes,Electronic check,0
+420,65,Female,4,285.29,80.31,321.24,One year,No,Bank transfer,1
+421,37,Male,4,429.18,89.72,358.88,Two year,No,Mailed check,0
+422,73,Male,5,267.78,74.32,371.59999999999997,Month-to-month,No,Bank transfer,0
+423,25,Male,8,789.16,52.95,423.6,One year,Yes,Mailed check,1
+424,24,Male,5,573.35,80.29,401.45000000000005,One year,No,Credit card,1
+425,20,Male,7,658.83,36.29,254.03,Month-to-month,No,Mailed check,1
+426,34,Male,6,252.31,46.2,277.20000000000005,Two year,Yes,Credit card,0
+427,50,Female,8,220.23,63.73,509.84,Month-to-month,Yes,Bank transfer,0
+428,65,Female,3,488.37,66.03,198.09,Month-to-month,No,Mailed check,0
+429,29,Female,1,737.57,21.77,21.77,Two year,Yes,Credit card,0
+430,76,Female,6,525.24,95.61,573.66,Month-to-month,No,Credit card,0
+431,68,Male,5,32.65,75.73,378.65000000000003,One year,No,Credit card,0
+432,39,Male,0,868.55,59.66,0.0,One year,Yes,Electronic check,0
+433,72,Female,8,64.69,94.65,757.2,One year,No,Bank transfer,0
+434,39,Male,8,955.82,55.13,441.04,Month-to-month,Yes,Credit card,0
+435,63,Female,1,25.14,98.43,98.43,One year,Yes,Mailed check,1
+436,47,Female,2,694.45,60.98,121.96,One year,Yes,Credit card,1
+437,55,Female,4,82.21,29.14,116.56,One year,No,Electronic check,0
+438,55,Male,4,910.68,81.18,324.72,One year,Yes,Bank transfer,1
+439,62,Female,0,464.43,74.31,0.0,One year,Yes,Electronic check,1
+440,68,Female,7,137.52,81.84,572.88,One year,No,Electronic check,0
+441,71,Female,7,340.82,96.12,672.84,Month-to-month,No,Electronic check,1
+442,25,Male,3,164.82,82.12,246.36,One year,No,Mailed check,1
+443,44,Male,6,170.58,68.91,413.46,One year,No,Bank transfer,0
+444,44,Female,9,948.11,88.58,797.22,Two year,Yes,Bank transfer,1
+445,51,Male,2,445.25,73.86,147.72,Month-to-month,Yes,Mailed check,1
+446,38,Male,5,788.8,52.65,263.25,Month-to-month,Yes,Bank transfer,0
+447,47,Male,9,639.61,90.85,817.65,Month-to-month,No,Electronic check,0
+448,50,Male,9,676.43,37.75,339.75,Month-to-month,No,Bank transfer,1
+449,45,Male,8,131.69,77.17,617.36,One year,Yes,Mailed check,1
+450,64,Male,0,234.18,90.53,0.0,One year,No,Electronic check,1
+451,50,Male,4,786.75,78.51,314.04,Two year,No,Mailed check,0
+452,22,Male,3,970.77,75.78,227.34,Two year,Yes,Credit card,0
+453,77,Male,7,262.68,80.21,561.4699999999999,Month-to-month,Yes,Electronic check,1
+454,78,Male,0,271.57,57.2,0.0,Two year,No,Electronic check,1
+455,65,Female,8,472.9,89.93,719.44,Two year,No,Bank transfer,0
+456,36,Female,5,983.84,36.27,181.35000000000002,Month-to-month,No,Electronic check,0
+457,21,Male,3,268.96,30.19,90.57000000000001,Month-to-month,Yes,Mailed check,1
+458,52,Female,8,406.97,42.84,342.72,Two year,Yes,Bank transfer,0
+459,66,Female,4,891.48,62.53,250.12,One year,Yes,Credit card,0
+460,34,Male,4,2.92,60.84,243.36,Two year,Yes,Mailed check,1
+461,61,Male,4,39.77,85.65,342.6,Two year,Yes,Credit card,1
+462,45,Male,0,604.07,52.37,0.0,One year,No,Credit card,0
+463,47,Female,0,907.38,58.75,0.0,One year,No,Credit card,1
+464,46,Female,7,238.86,21.07,147.49,Month-to-month,No,Electronic check,0
+465,63,Male,7,469.64,52.78,369.46000000000004,Month-to-month,Yes,Mailed check,1
+466,70,Male,5,450.47,71.82,359.09999999999997,Two year,Yes,Mailed check,0
+467,23,Male,3,472.97,21.24,63.72,One year,Yes,Electronic check,0
+468,52,Female,1,622.52,42.47,42.47,Month-to-month,No,Bank transfer,1
+469,77,Female,1,469.74,36.64,36.64,Two year,Yes,Credit card,0
+470,58,Female,8,447.47,23.36,186.88,One year,Yes,Mailed check,0
+471,54,Female,4,474.29,58.34,233.36,Two year,No,Electronic check,0
+472,41,Male,3,590.87,34.54,103.62,Month-to-month,Yes,Credit card,0
+473,46,Male,9,537.01,79.45,715.0500000000001,Month-to-month,No,Bank transfer,1
+474,66,Male,0,854.14,87.83,0.0,One year,Yes,Bank transfer,1
+475,63,Male,6,49.5,63.65,381.9,Two year,Yes,Credit card,0
+476,70,Female,2,833.32,98.54,197.08,One year,No,Bank transfer,1
+477,48,Female,5,843.92,56.04,280.2,Month-to-month,No,Mailed check,0
+478,52,Male,4,284.91,61.07,244.28,Month-to-month,No,Mailed check,0
+479,77,Male,4,462.85,99.14,396.56,Two year,No,Mailed check,1
+480,50,Female,4,438.54,38.52,154.08,Two year,No,Bank transfer,0
+481,69,Male,0,218.51,95.4,0.0,Two year,No,Mailed check,0
+482,78,Female,0,396.8,23.43,0.0,One year,Yes,Electronic check,1
+483,38,Male,2,44.39,55.71,111.42,Two year,Yes,Mailed check,1
+484,49,Male,9,277.82,25.6,230.4,Two year,No,Mailed check,0
+485,40,Male,3,816.68,78.34,235.02,Month-to-month,Yes,Bank transfer,1
+486,50,Male,4,284.56,68.67,274.68,Month-to-month,No,Mailed check,0
+487,20,Male,1,818.21,76.53,76.53,Two year,Yes,Credit card,0
+488,35,Male,7,531.6,49.96,349.72,Two year,No,Electronic check,0
+489,42,Male,1,879.86,49.56,49.56,Month-to-month,Yes,Bank transfer,1
+490,59,Female,8,574.78,23.63,189.04,Two year,Yes,Electronic check,0
+491,48,Female,1,29.67,48.0,48.0,One year,Yes,Credit card,0
+492,71,Female,8,675.42,94.34,754.72,One year,Yes,Bank transfer,0
+493,75,Female,6,44.85,50.34,302.04,One year,Yes,Bank transfer,0
+494,20,Female,7,450.6,86.51,605.57,Two year,No,Mailed check,1
+495,57,Male,1,929.43,87.39,87.39,Month-to-month,No,Electronic check,1
+496,63,Male,6,165.2,49.86,299.15999999999997,Two year,No,Credit card,0
+497,41,Female,5,389.87,70.56,352.8,Two year,Yes,Credit card,0
+498,67,Male,3,729.86,27.63,82.89,Month-to-month,No,Bank transfer,1
+499,49,Female,6,882.26,28.29,169.74,Month-to-month,Yes,Mailed check,0
+500,64,Female,3,670.94,23.89,71.67,Month-to-month,Yes,Bank transfer,0
+501,39,Male,1,258.17,66.48,66.48,One year,Yes,Bank transfer,0
+502,40,Male,9,674.61,54.09,486.81000000000006,Two year,No,Bank transfer,0
+503,19,Male,6,296.73,63.84,383.04,Month-to-month,Yes,Bank transfer,1
+504,44,Female,7,718.43,61.69,431.83,Two year,No,Credit card,1
+505,59,Male,1,954.03,48.02,48.02,One year,No,Credit card,1
+506,19,Female,4,721.39,74.2,296.8,One year,Yes,Bank transfer,1
+507,43,Female,0,862.88,80.68,0.0,Month-to-month,Yes,Bank transfer,1
+508,34,Female,6,2.1,21.17,127.02000000000001,Month-to-month,No,Mailed check,0
+509,57,Male,7,717.57,36.58,256.06,Two year,No,Bank transfer,1
+510,50,Male,5,829.59,77.06,385.3,Month-to-month,No,Credit card,0
+511,26,Female,4,40.56,50.93,203.72,Two year,No,Electronic check,0
+512,60,Male,5,871.6,73.0,365.0,Month-to-month,No,Credit card,1
+513,71,Male,1,256.69,47.76,47.76,Two year,No,Mailed check,0
+514,65,Male,0,665.29,51.26,0.0,Two year,Yes,Credit card,1
+515,56,Female,6,800.35,32.69,196.14,Two year,No,Electronic check,0
+516,46,Female,6,662.66,40.66,243.95999999999998,Two year,No,Bank transfer,0
+517,59,Male,9,92.28,68.43,615.8700000000001,One year,No,Electronic check,0
+518,72,Female,9,596.32,54.65,491.84999999999997,Two year,No,Bank transfer,0
+519,43,Male,1,549.58,81.94,81.94,Month-to-month,Yes,Bank transfer,1
+520,52,Male,1,900.32,88.21,88.21,One year,Yes,Credit card,0
+521,67,Male,0,404.24,63.33,0.0,One year,No,Credit card,1
+522,42,Male,9,321.08,80.66,725.9399999999999,Two year,No,Credit card,0
+523,41,Female,7,749.85,44.55,311.84999999999997,One year,No,Mailed check,0
+524,30,Female,7,412.68,53.2,372.40000000000003,Two year,Yes,Credit card,0
+525,77,Female,0,646.1,77.02,0.0,Month-to-month,Yes,Mailed check,1
+526,75,Male,7,646.45,50.9,356.3,Two year,Yes,Credit card,0
+527,24,Male,8,888.04,67.08,536.64,One year,Yes,Bank transfer,1
+528,74,Male,3,598.69,34.83,104.49,Month-to-month,Yes,Mailed check,1
+529,53,Female,0,502.15,67.98,0.0,Two year,Yes,Electronic check,0
+530,62,Male,0,138.87,88.92,0.0,Month-to-month,No,Mailed check,0
+531,37,Female,2,115.74,89.49,178.98,Month-to-month,Yes,Mailed check,0
+532,18,Female,4,154.32,77.95,311.8,One year,Yes,Electronic check,0
+533,25,Female,4,171.85,79.66,318.64,Month-to-month,No,Mailed check,0
+534,63,Female,8,637.88,64.63,517.04,One year,Yes,Bank transfer,0
+535,33,Female,9,740.98,66.77,600.93,Month-to-month,No,Credit card,1
+536,31,Female,1,529.99,30.69,30.69,Two year,Yes,Electronic check,1
+537,29,Male,1,829.02,55.51,55.51,Month-to-month,No,Credit card,0
+538,68,Male,5,991.26,56.06,280.3,Two year,No,Bank transfer,0
+539,40,Female,8,820.01,96.68,773.44,Two year,No,Electronic check,1
+540,32,Female,0,694.88,54.49,0.0,Month-to-month,No,Credit card,1
+541,45,Male,8,532.49,63.95,511.6,Two year,No,Credit card,0
+542,51,Female,8,448.85,62.66,501.28,Month-to-month,Yes,Bank transfer,0
+543,19,Female,8,84.39,70.94,567.52,Month-to-month,Yes,Credit card,1
+544,49,Male,4,399.37,79.86,319.44,Two year,No,Bank transfer,1
+545,40,Female,8,910.13,38.0,304.0,Two year,No,Mailed check,0
+546,39,Female,3,808.02,62.3,186.89999999999998,One year,No,Bank transfer,0
+547,68,Female,1,216.05,86.07,86.07,Two year,Yes,Mailed check,0
+548,42,Male,5,466.61,57.05,285.25,One year,No,Electronic check,0
+549,75,Male,3,816.72,42.28,126.84,Two year,No,Credit card,1
+550,79,Male,5,67.38,72.38,361.9,Month-to-month,No,Bank transfer,1
+551,78,Female,2,387.39,85.9,171.8,Two year,No,Bank transfer,1
+552,39,Female,5,851.84,25.05,125.25,Month-to-month,Yes,Credit card,0
+553,75,Male,1,403.9,82.14,82.14,Month-to-month,No,Credit card,0
+554,75,Female,1,77.61,85.73,85.73,Month-to-month,No,Electronic check,1
+555,39,Female,8,542.53,56.92,455.36,One year,Yes,Electronic check,0
+556,66,Female,6,861.74,98.66,591.96,Two year,No,Bank transfer,1
+557,69,Female,2,590.29,82.94,165.88,Month-to-month,No,Electronic check,0
+558,59,Female,0,226.28,81.89,0.0,Month-to-month,Yes,Mailed check,0
+559,23,Male,7,384.24,79.83,558.81,One year,Yes,Electronic check,0
+560,32,Female,5,450.12,32.05,160.25,Two year,Yes,Electronic check,0
+561,71,Male,6,579.27,37.38,224.28000000000003,Two year,No,Bank transfer,0
+562,60,Female,8,759.35,57.12,456.96,One year,No,Mailed check,0
+563,77,Male,4,98.87,41.12,164.48,One year,Yes,Electronic check,0
+564,54,Female,0,889.65,53.22,0.0,Two year,Yes,Mailed check,1
+565,50,Male,9,12.31,91.08,819.72,One year,Yes,Mailed check,0
+566,25,Female,6,370.05,85.95,515.7,Two year,No,Mailed check,1
+567,70,Male,4,27.42,70.4,281.6,Two year,No,Credit card,1
+568,77,Female,2,392.97,88.65,177.3,Month-to-month,Yes,Credit card,0
+569,61,Male,8,525.81,82.7,661.6,Month-to-month,No,Credit card,1
+570,61,Female,0,511.68,54.32,0.0,Two year,Yes,Credit card,1
+571,22,Male,0,165.63,36.09,0.0,Two year,No,Bank transfer,1
+572,56,Male,0,645.74,61.14,0.0,Two year,No,Electronic check,0
+573,21,Female,2,44.78,78.9,157.8,Two year,No,Credit card,1
+574,23,Female,5,761.91,54.91,274.54999999999995,Two year,No,Bank transfer,1
+575,62,Male,9,946.64,73.34,660.0600000000001,Two year,Yes,Electronic check,1
+576,49,Female,2,339.77,27.55,55.1,One year,No,Credit card,1
+577,69,Male,7,517.24,79.84,558.88,Two year,No,Electronic check,1
+578,47,Male,9,378.91,85.02,765.18,One year,Yes,Credit card,1
+579,64,Male,1,6.71,76.55,76.55,One year,No,Bank transfer,1
+580,52,Female,8,385.87,97.38,779.04,Two year,Yes,Mailed check,1
+581,72,Male,2,791.72,86.13,172.26,Two year,Yes,Mailed check,0
+582,57,Male,4,595.99,92.25,369.0,One year,No,Electronic check,1
+583,69,Female,9,101.26,94.69,852.21,One year,No,Bank transfer,0
+584,33,Female,7,847.14,84.11,588.77,Two year,Yes,Mailed check,0
+585,30,Female,1,531.09,73.94,73.94,Two year,Yes,Credit card,1
+586,67,Female,5,841.72,20.46,102.30000000000001,One year,Yes,Mailed check,0
+587,77,Male,4,580.22,57.27,229.08,One year,No,Electronic check,0
+588,59,Male,9,559.69,65.69,591.21,One year,Yes,Electronic check,0
+589,47,Male,8,105.26,44.32,354.56,Month-to-month,Yes,Bank transfer,1
+590,36,Male,4,167.36,45.45,181.8,One year,Yes,Electronic check,0
+591,34,Female,1,972.03,96.89,96.89,Month-to-month,No,Mailed check,1
+592,73,Male,4,228.49,91.34,365.36,Two year,Yes,Mailed check,1
+593,36,Male,3,977.45,87.93,263.79,Two year,No,Mailed check,0
+594,45,Female,6,531.91,52.48,314.88,One year,No,Mailed check,0
+595,75,Male,5,135.79,21.1,105.5,Two year,Yes,Bank transfer,0
+596,72,Male,1,99.3,26.42,26.42,Two year,No,Credit card,0
+597,43,Male,4,208.86,44.98,179.92,Two year,Yes,Credit card,0
+598,54,Male,6,925.64,21.26,127.56,Two year,No,Bank transfer,0
+599,43,Male,6,414.15,21.37,128.22,Month-to-month,No,Electronic check,1
+600,70,Male,4,395.43,93.33,373.32,Month-to-month,Yes,Credit card,0
+601,79,Female,8,313.21,76.49,611.92,One year,Yes,Electronic check,0
+602,40,Female,3,147.06,44.72,134.16,One year,Yes,Credit card,0
+603,26,Male,2,487.85,30.61,61.22,One year,No,Electronic check,1
+604,29,Male,3,130.05,60.93,182.79,Two year,No,Bank transfer,0
+605,70,Female,4,835.48,20.43,81.72,Two year,Yes,Mailed check,1
+606,18,Male,5,370.4,95.07,475.34999999999997,Month-to-month,Yes,Electronic check,0
+607,75,Male,2,374.8,53.19,106.38,Month-to-month,No,Mailed check,1
+608,75,Male,1,474.01,52.19,52.19,One year,No,Electronic check,0
+609,18,Female,3,444.13,51.25,153.75,Month-to-month,No,Electronic check,0
+610,64,Male,4,994.86,25.55,102.2,Month-to-month,Yes,Electronic check,1
+611,51,Female,3,545.38,71.07,213.20999999999998,Month-to-month,No,Electronic check,0
+612,49,Male,2,88.2,78.64,157.28,Month-to-month,Yes,Electronic check,1
+613,79,Female,7,606.88,74.09,518.63,Month-to-month,No,Mailed check,1
+614,71,Female,9,151.58,31.07,279.63,One year,No,Electronic check,0
+615,65,Male,3,30.94,66.31,198.93,One year,Yes,Mailed check,0
+616,42,Female,1,970.74,65.56,65.56,Month-to-month,Yes,Bank transfer,1
+617,57,Male,1,773.54,89.47,89.47,One year,Yes,Credit card,1
+618,62,Female,0,980.11,50.33,0.0,Two year,No,Electronic check,0
+619,70,Male,3,477.88,49.72,149.16,Month-to-month,No,Credit card,0
+620,18,Male,9,532.26,69.48,625.32,Two year,No,Mailed check,0
+621,33,Female,8,168.34,70.65,565.2,One year,Yes,Bank transfer,0
+622,78,Male,6,246.91,57.54,345.24,One year,No,Bank transfer,0
+623,56,Male,9,838.55,55.44,498.96,Two year,Yes,Bank transfer,1
+624,22,Female,6,356.19,59.53,357.18,One year,Yes,Credit card,0
+625,39,Male,6,826.81,88.88,533.28,Month-to-month,Yes,Mailed check,0
+626,46,Male,7,709.01,56.89,398.23,Two year,No,Electronic check,0
+627,72,Female,0,177.17,95.19,0.0,Month-to-month,No,Electronic check,1
+628,20,Female,9,507.45,60.32,542.88,Two year,Yes,Mailed check,0
+629,29,Male,9,677.39,95.94,863.46,One year,No,Credit card,1
+630,43,Male,7,235.04,86.63,606.41,Two year,Yes,Electronic check,1
+631,33,Female,3,830.69,48.99,146.97,Two year,Yes,Mailed check,1
+632,68,Female,3,544.83,89.09,267.27,Month-to-month,No,Electronic check,0
+633,54,Male,3,165.24,28.81,86.42999999999999,One year,Yes,Bank transfer,0
+634,39,Female,5,582.98,94.0,470.0,Month-to-month,Yes,Electronic check,1
+635,74,Male,6,999.71,70.53,423.18,One year,No,Credit card,0
+636,46,Male,5,150.52,24.35,121.75,Month-to-month,Yes,Mailed check,1
+637,31,Male,0,816.76,71.54,0.0,Two year,Yes,Credit card,0
+638,45,Male,7,207.31,97.94,685.5799999999999,Month-to-month,Yes,Mailed check,1
+639,22,Male,9,782.39,25.58,230.21999999999997,One year,Yes,Bank transfer,1
+640,64,Female,6,734.58,64.38,386.28,One year,Yes,Mailed check,0
+641,66,Female,5,300.49,79.82,399.09999999999997,Two year,Yes,Electronic check,0
+642,47,Female,5,325.82,84.82,424.09999999999997,One year,Yes,Electronic check,1
+643,63,Female,4,792.52,53.11,212.44,Month-to-month,No,Bank transfer,0
+644,79,Male,5,461.45,36.33,181.64999999999998,Two year,No,Mailed check,1
+645,69,Male,8,730.82,23.39,187.12,One year,Yes,Bank transfer,0
+646,22,Male,9,147.98,66.38,597.42,One year,Yes,Electronic check,0
+647,29,Male,8,852.56,56.23,449.84,Month-to-month,No,Credit card,0
+648,33,Female,9,710.88,95.9,863.1,Month-to-month,No,Bank transfer,0
+649,43,Male,7,906.94,24.85,173.95000000000002,Two year,No,Credit card,0
+650,43,Male,9,132.37,74.83,673.47,One year,No,Credit card,0
+651,65,Female,8,593.01,22.0,176.0,Month-to-month,No,Mailed check,1
+652,38,Female,9,599.12,33.71,303.39,Two year,Yes,Bank transfer,0
+653,56,Female,7,353.46,56.29,394.03,One year,No,Credit card,0
+654,53,Female,7,458.47,56.39,394.73,One year,No,Credit card,1
+655,50,Male,0,37.98,74.86,0.0,Two year,No,Mailed check,1
+656,79,Male,9,745.86,92.82,835.3799999999999,Two year,Yes,Mailed check,0
+657,47,Female,4,549.32,71.12,284.48,Month-to-month,Yes,Electronic check,1
+658,54,Male,3,57.74,96.28,288.84000000000003,One year,Yes,Credit card,0
+659,40,Male,1,680.76,90.53,90.53,One year,Yes,Electronic check,1
+660,75,Male,7,466.78,66.76,467.32000000000005,One year,Yes,Credit card,0
+661,27,Female,2,34.46,86.7,173.4,Two year,Yes,Electronic check,1
+662,71,Male,3,969.61,71.41,214.23,Month-to-month,No,Mailed check,0
+663,22,Female,6,949.11,26.28,157.68,One year,Yes,Bank transfer,0
+664,53,Male,9,512.9,79.25,713.25,Two year,Yes,Mailed check,0
+665,51,Male,8,93.67,27.59,220.72,One year,No,Electronic check,1
+666,69,Male,1,754.62,67.53,67.53,Month-to-month,Yes,Electronic check,0
+667,48,Female,2,491.93,76.21,152.42,One year,No,Bank transfer,0
+668,27,Male,3,302.45,25.32,75.96000000000001,Month-to-month,No,Credit card,0
+669,75,Female,9,491.42,38.46,346.14,Month-to-month,Yes,Electronic check,1
+670,36,Female,0,522.44,93.25,0.0,One year,No,Electronic check,1
+671,75,Female,6,562.71,69.31,415.86,One year,No,Electronic check,0
+672,49,Male,1,441.22,39.7,39.7,Month-to-month,No,Bank transfer,1
+673,18,Male,4,605.76,75.25,301.0,Two year,No,Mailed check,1
+674,73,Male,0,918.73,67.74,0.0,Month-to-month,Yes,Electronic check,0
+675,22,Male,2,362.27,60.13,120.26,One year,No,Bank transfer,1
+676,62,Female,1,725.72,98.09,98.09,One year,Yes,Electronic check,0
+677,21,Female,0,894.45,74.68,0.0,Two year,No,Credit card,0
+678,33,Female,6,455.98,50.04,300.24,Month-to-month,No,Bank transfer,0
+679,41,Male,4,443.46,84.01,336.04,Month-to-month,No,Electronic check,0
+680,33,Female,0,602.12,90.77,0.0,Month-to-month,Yes,Bank transfer,0
+681,72,Male,5,591.41,30.02,150.1,One year,Yes,Electronic check,0
+682,19,Female,4,806.59,36.04,144.16,Month-to-month,Yes,Mailed check,0
+683,66,Male,2,476.48,37.3,74.6,Two year,No,Electronic check,0
+684,45,Male,6,996.12,75.3,451.79999999999995,One year,No,Bank transfer,0
+685,49,Female,9,59.47,68.24,614.16,One year,No,Credit card,0
+686,44,Female,8,3.17,69.52,556.16,Month-to-month,No,Credit card,0
+687,37,Female,8,640.2,95.26,762.08,Two year,Yes,Credit card,0
+688,41,Female,8,298.43,82.07,656.56,One year,No,Electronic check,0
+689,29,Male,1,240.38,30.23,30.23,One year,Yes,Mailed check,0
+690,67,Female,2,311.9,47.8,95.6,Month-to-month,No,Electronic check,1
+691,52,Female,6,256.05,54.83,328.98,Month-to-month,Yes,Credit card,0
+692,77,Female,4,30.79,51.68,206.72,Two year,Yes,Bank transfer,1
+693,50,Male,1,971.53,73.54,73.54,Month-to-month,No,Credit card,1
+694,50,Male,2,220.75,91.35,182.7,Two year,No,Bank transfer,1
+695,78,Female,9,734.03,44.48,400.32,One year,Yes,Mailed check,0
+696,68,Male,5,762.6,64.15,320.75,Two year,No,Bank transfer,0
+697,60,Female,6,929.26,83.15,498.90000000000003,Two year,No,Electronic check,1
+698,54,Male,8,30.55,53.3,426.4,Two year,Yes,Electronic check,0
+699,29,Male,0,872.05,33.45,0.0,One year,Yes,Electronic check,0
+700,20,Male,6,527.23,58.0,348.0,Month-to-month,Yes,Bank transfer,0
+701,18,Male,7,632.54,24.42,170.94,One year,Yes,Electronic check,0
+702,50,Female,2,644.47,95.39,190.78,Month-to-month,No,Electronic check,1
+703,57,Female,3,819.8,25.99,77.97,Two year,Yes,Electronic check,0
+704,27,Female,9,333.41,55.08,495.71999999999997,Two year,Yes,Mailed check,0
+705,60,Male,5,733.05,62.39,311.95,Two year,Yes,Bank transfer,1
+706,61,Female,9,528.58,98.82,889.3799999999999,Two year,No,Bank transfer,0
+707,46,Female,6,793.39,33.28,199.68,Two year,Yes,Credit card,0
+708,30,Female,3,990.55,29.15,87.44999999999999,Month-to-month,No,Bank transfer,0
+709,29,Male,7,200.65,20.7,144.9,Month-to-month,Yes,Mailed check,1
+710,48,Male,4,994.65,32.45,129.8,Two year,Yes,Bank transfer,0
+711,63,Male,0,89.81,36.58,0.0,One year,No,Mailed check,0
+712,19,Female,3,2.32,70.45,211.35000000000002,One year,Yes,Mailed check,0
+713,78,Female,2,44.16,37.58,75.16,Two year,Yes,Bank transfer,0
+714,68,Female,8,341.78,21.64,173.12,Month-to-month,No,Credit card,1
+715,67,Male,7,632.91,86.13,602.91,One year,Yes,Electronic check,0
+716,52,Male,0,69.03,49.25,0.0,One year,Yes,Electronic check,1
+717,40,Female,5,5.67,48.3,241.5,One year,Yes,Bank transfer,1
+718,34,Male,8,937.09,44.2,353.6,Two year,Yes,Bank transfer,1
+719,43,Male,6,821.93,98.03,588.1800000000001,One year,No,Mailed check,0
+720,25,Male,3,809.18,33.61,100.83,One year,Yes,Bank transfer,0
+721,46,Male,0,884.42,91.86,0.0,One year,No,Mailed check,1
+722,43,Female,1,700.03,82.14,82.14,One year,Yes,Credit card,0
+723,27,Male,4,104.4,26.12,104.48,Month-to-month,No,Bank transfer,1
+724,43,Male,4,399.1,98.94,395.76,Two year,Yes,Electronic check,1
+725,79,Male,7,723.15,41.71,291.97,Two year,No,Electronic check,0
+726,51,Male,5,280.33,27.89,139.45,Month-to-month,Yes,Bank transfer,1
+727,68,Female,7,687.41,86.35,604.4499999999999,Month-to-month,No,Mailed check,0
+728,58,Female,1,24.5,76.53,76.53,Two year,No,Electronic check,0
+729,24,Male,2,306.14,69.38,138.76,One year,Yes,Mailed check,0
+730,21,Male,5,549.13,32.48,162.39999999999998,One year,No,Bank transfer,0
+731,75,Male,9,632.09,58.28,524.52,Two year,Yes,Bank transfer,0
+732,70,Male,2,577.04,82.44,164.88,One year,Yes,Electronic check,1
+733,67,Male,5,697.76,44.29,221.45,Month-to-month,Yes,Bank transfer,0
+734,62,Male,5,6.09,44.94,224.7,One year,Yes,Credit card,0
+735,28,Female,1,100.94,20.25,20.25,One year,Yes,Credit card,1
+736,46,Male,6,868.94,33.94,203.64,One year,No,Electronic check,0
+737,73,Female,1,681.75,90.03,90.03,Two year,Yes,Credit card,1
+738,53,Female,5,112.93,55.34,276.70000000000005,Month-to-month,Yes,Mailed check,0
+739,42,Male,0,842.07,98.74,0.0,One year,Yes,Electronic check,0
+740,38,Female,2,242.23,51.66,103.32,Two year,Yes,Electronic check,1
+741,78,Female,1,478.26,77.21,77.21,One year,Yes,Mailed check,1
+742,74,Female,6,145.2,42.55,255.29999999999998,Month-to-month,Yes,Credit card,0
+743,53,Female,3,710.11,49.1,147.3,One year,No,Credit card,0
+744,27,Female,7,666.85,35.26,246.82,Month-to-month,No,Credit card,0
+745,54,Female,5,211.11,47.76,238.79999999999998,One year,Yes,Electronic check,0
+746,26,Male,9,863.4,63.78,574.02,Month-to-month,No,Electronic check,0
+747,41,Female,3,401.31,99.34,298.02,One year,Yes,Credit card,1
+748,52,Female,4,292.52,73.14,292.56,Month-to-month,Yes,Bank transfer,0
+749,66,Female,8,152.33,35.94,287.52,One year,Yes,Credit card,0
+750,52,Male,6,266.17,23.6,141.60000000000002,One year,Yes,Mailed check,0
+751,65,Female,9,22.03,30.11,270.99,Two year,Yes,Electronic check,0
+752,53,Male,8,583.26,65.0,520.0,Two year,No,Mailed check,0
+753,35,Female,6,842.23,81.21,487.26,Month-to-month,No,Mailed check,0
+754,66,Male,0,548.98,95.23,0.0,One year,No,Electronic check,1
+755,56,Male,7,219.27,21.27,148.89,Month-to-month,No,Bank transfer,1
+756,49,Female,3,33.67,61.82,185.46,Two year,Yes,Credit card,0
+757,41,Female,2,214.63,57.67,115.34,Month-to-month,No,Mailed check,1
+758,40,Male,6,416.12,72.48,434.88,Month-to-month,Yes,Electronic check,0
+759,79,Female,2,759.61,64.77,129.54,Two year,No,Mailed check,0
+760,49,Male,7,187.84,74.96,524.7199999999999,One year,No,Credit card,0
+761,54,Male,5,719.79,72.65,363.25,Month-to-month,No,Bank transfer,0
+762,29,Male,4,866.93,29.36,117.44,Two year,No,Bank transfer,0
+763,66,Male,3,453.95,83.98,251.94,One year,Yes,Bank transfer,0
+764,72,Male,7,821.43,29.86,209.01999999999998,Two year,No,Electronic check,0
+765,30,Female,7,554.66,75.88,531.16,Month-to-month,No,Electronic check,0
+766,40,Male,0,637.09,53.29,0.0,One year,Yes,Bank transfer,1
+767,42,Male,8,526.28,61.11,488.88,One year,Yes,Credit card,0
+768,52,Female,4,463.17,92.26,369.04,Two year,No,Credit card,0
+769,58,Male,3,234.65,91.19,273.57,Two year,Yes,Electronic check,1
+770,47,Female,5,303.19,85.43,427.15000000000003,Two year,Yes,Bank transfer,1
+771,34,Female,5,289.97,60.81,304.05,One year,Yes,Credit card,1
+772,66,Female,1,563.29,78.9,78.9,One year,No,Credit card,1
+773,79,Male,7,119.95,61.03,427.21000000000004,Month-to-month,Yes,Credit card,0
+774,37,Male,6,916.79,89.57,537.42,One year,No,Electronic check,0
+775,65,Male,0,720.66,52.22,0.0,Month-to-month,No,Bank transfer,0
+776,42,Female,4,401.45,97.62,390.48,Two year,No,Mailed check,1
+777,39,Male,5,158.62,94.59,472.95000000000005,Two year,No,Bank transfer,0
+778,30,Female,3,881.99,79.33,237.99,One year,Yes,Bank transfer,0
+779,76,Male,1,823.78,42.35,42.35,Two year,No,Electronic check,1
+780,36,Female,3,721.72,30.53,91.59,Two year,Yes,Credit card,0
+781,66,Male,0,271.55,88.38,0.0,One year,No,Credit card,0
+782,53,Male,6,402.45,33.22,199.32,Month-to-month,Yes,Electronic check,1
+783,29,Male,1,102.75,88.34,88.34,One year,No,Electronic check,1
+784,78,Female,1,189.04,59.26,59.26,Month-to-month,Yes,Electronic check,0
+785,58,Female,8,783.02,52.52,420.16,One year,No,Electronic check,0
+786,36,Male,4,715.04,92.26,369.04,One year,No,Electronic check,0
+787,29,Male,1,593.49,68.31,68.31,Two year,Yes,Mailed check,0
+788,26,Female,8,895.73,66.13,529.04,One year,No,Bank transfer,1
+789,24,Female,8,583.27,64.7,517.6,One year,No,Bank transfer,0
+790,45,Female,0,466.97,49.69,0.0,Month-to-month,No,Bank transfer,1
+791,31,Male,2,340.37,82.85,165.7,Two year,Yes,Credit card,0
+792,48,Female,3,940.45,40.22,120.66,Month-to-month,No,Mailed check,0
+793,69,Male,6,82.72,95.11,570.66,Month-to-month,No,Bank transfer,1
+794,36,Female,9,930.89,91.52,823.68,Two year,Yes,Credit card,0
+795,75,Male,3,826.71,47.0,141.0,Two year,Yes,Mailed check,0
+796,64,Female,1,129.93,78.36,78.36,Two year,Yes,Mailed check,1
+797,33,Female,6,564.98,65.86,395.15999999999997,One year,Yes,Credit card,0
+798,70,Female,5,866.55,47.01,235.04999999999998,Two year,Yes,Mailed check,0
+799,22,Female,2,571.81,99.08,198.16,Two year,No,Credit card,1
+800,52,Female,5,907.2,22.02,110.1,Two year,No,Bank transfer,0
+801,29,Male,5,942.98,40.21,201.05,Month-to-month,No,Credit card,0
+802,42,Female,4,422.38,61.61,246.44,Month-to-month,Yes,Mailed check,0
+803,69,Female,3,377.31,61.76,185.28,One year,No,Bank transfer,1
+804,76,Female,9,936.32,67.11,603.99,Month-to-month,Yes,Bank transfer,1
+805,38,Male,0,675.14,80.13,0.0,One year,Yes,Electronic check,0
+806,53,Female,9,116.02,69.88,628.92,Month-to-month,No,Electronic check,1
+807,70,Male,5,42.29,68.02,340.09999999999997,Two year,Yes,Mailed check,0
+808,40,Female,1,564.63,24.28,24.28,Month-to-month,Yes,Credit card,1
+809,33,Female,2,930.17,50.12,100.24,One year,No,Credit card,1
+810,74,Male,7,844.25,38.56,269.92,Month-to-month,Yes,Mailed check,1
+811,56,Female,9,675.85,41.23,371.07,Two year,Yes,Bank transfer,0
+812,62,Male,5,139.12,64.35,321.75,One year,No,Mailed check,0
+813,70,Male,2,254.23,35.96,71.92,Two year,Yes,Mailed check,0
+814,59,Female,6,875.51,43.52,261.12,Two year,Yes,Bank transfer,0
+815,75,Male,3,182.81,38.97,116.91,One year,No,Credit card,0
+816,56,Female,8,278.44,95.88,767.04,Two year,No,Mailed check,0
+817,31,Female,4,129.6,95.57,382.28,Two year,No,Credit card,0
+818,48,Male,2,676.11,68.8,137.6,Month-to-month,No,Mailed check,1
+819,75,Male,1,943.98,93.96,93.96,Two year,Yes,Bank transfer,1
+820,22,Male,1,268.97,82.87,82.87,Two year,Yes,Bank transfer,1
+821,52,Male,2,475.41,67.2,134.4,Two year,No,Electronic check,1
+822,40,Female,1,634.34,20.51,20.51,Two year,Yes,Bank transfer,1
+823,46,Female,3,999.47,81.8,245.39999999999998,One year,Yes,Electronic check,0
+824,60,Male,1,104.81,76.2,76.2,Month-to-month,No,Mailed check,1
+825,28,Female,9,498.57,69.22,622.98,Two year,No,Credit card,1
+826,35,Female,8,385.12,80.83,646.64,Two year,Yes,Bank transfer,0
+827,64,Female,1,865.82,61.03,61.03,One year,No,Bank transfer,1
+828,29,Female,8,475.97,76.33,610.64,Two year,No,Bank transfer,0
+829,26,Male,5,110.98,94.81,474.05,One year,No,Mailed check,1
+830,27,Male,0,634.42,50.06,0.0,Month-to-month,Yes,Electronic check,1
+831,75,Female,3,770.78,76.65,229.95000000000002,Month-to-month,No,Mailed check,0
+832,61,Male,0,2.88,58.06,0.0,Two year,Yes,Credit card,1
+833,34,Male,5,858.96,73.95,369.75,Two year,Yes,Mailed check,1
+834,78,Male,3,186.02,81.03,243.09,Two year,Yes,Credit card,0
+835,55,Female,2,552.07,23.64,47.28,One year,No,Bank transfer,1
+836,24,Female,2,415.8,71.73,143.46,Two year,No,Credit card,0
+837,63,Female,8,719.65,38.14,305.12,Two year,No,Credit card,0
+838,30,Male,5,371.16,73.6,368.0,Month-to-month,No,Electronic check,0
+839,57,Female,8,869.76,57.47,459.76,Two year,No,Credit card,0
+840,59,Female,4,730.5,81.88,327.52,Month-to-month,Yes,Credit card,1
+841,26,Male,1,647.71,29.87,29.87,Two year,Yes,Mailed check,1
+842,67,Female,7,796.24,70.11,490.77,Month-to-month,Yes,Bank transfer,0
+843,44,Female,4,754.02,42.28,169.12,Two year,No,Mailed check,1
+844,75,Male,1,35.94,88.24,88.24,Month-to-month,Yes,Mailed check,0
+845,19,Male,3,394.73,94.27,282.81,One year,Yes,Bank transfer,1
+846,22,Male,8,930.81,99.71,797.68,Month-to-month,No,Bank transfer,0
+847,46,Female,3,125.72,83.68,251.04000000000002,Month-to-month,No,Credit card,1
+848,54,Female,3,737.1,80.3,240.89999999999998,Month-to-month,Yes,Credit card,1
+849,55,Female,1,974.59,37.24,37.24,Two year,Yes,Electronic check,0
+850,36,Male,5,52.2,46.88,234.4,Two year,No,Mailed check,1
+851,25,Male,1,682.19,57.25,57.25,Two year,No,Bank transfer,1
+852,65,Female,6,468.15,81.87,491.22,One year,No,Credit card,0
+853,62,Female,2,579.18,93.2,186.4,One year,No,Bank transfer,0
+854,18,Male,2,85.34,35.13,70.26,Month-to-month,Yes,Credit card,0
+855,39,Male,4,43.01,93.79,375.16,One year,Yes,Electronic check,1
+856,69,Male,2,666.87,75.65,151.3,Month-to-month,No,Electronic check,1
+857,34,Male,1,823.31,68.86,68.86,Month-to-month,Yes,Bank transfer,1
+858,24,Female,9,782.02,35.99,323.91,Month-to-month,Yes,Electronic check,1
+859,42,Male,8,543.81,24.44,195.52,One year,No,Bank transfer,0
+860,62,Female,1,99.87,65.48,65.48,Two year,Yes,Credit card,0
+861,21,Female,1,688.04,72.12,72.12,One year,Yes,Mailed check,1
+862,53,Female,7,241.89,36.86,258.02,Month-to-month,Yes,Electronic check,1
+863,23,Male,8,911.07,64.52,516.16,Month-to-month,No,Credit card,0
+864,77,Male,6,838.27,88.52,531.12,One year,No,Mailed check,1
+865,48,Male,2,709.38,86.81,173.62,Month-to-month,Yes,Mailed check,0
+866,36,Male,8,948.85,94.19,753.52,Month-to-month,No,Mailed check,0
+867,78,Female,2,31.42,49.27,98.54,One year,No,Credit card,0
+868,61,Male,4,736.2,45.44,181.76,One year,No,Credit card,0
+869,71,Male,8,330.24,79.95,639.6,One year,Yes,Bank transfer,1
+870,56,Female,2,906.07,54.49,108.98,Month-to-month,Yes,Mailed check,1
+871,44,Male,6,266.68,27.0,162.0,Month-to-month,No,Mailed check,0
+872,27,Female,0,724.86,42.62,0.0,Two year,Yes,Mailed check,1
+873,43,Female,3,877.65,53.49,160.47,Two year,Yes,Bank transfer,1
+874,36,Female,3,41.66,43.4,130.2,One year,Yes,Mailed check,1
+875,56,Female,6,397.65,46.58,279.48,Two year,Yes,Credit card,0
+876,79,Female,7,762.31,43.5,304.5,Month-to-month,Yes,Mailed check,0
+877,20,Female,0,454.92,23.32,0.0,Two year,No,Electronic check,1
+878,62,Female,4,267.25,70.97,283.88,Month-to-month,Yes,Credit card,1
+879,30,Female,6,219.81,67.78,406.68,One year,Yes,Bank transfer,0
+880,67,Male,3,131.52,72.27,216.81,One year,Yes,Mailed check,0
+881,45,Male,3,857.13,35.38,106.14000000000001,Month-to-month,No,Electronic check,0
+882,79,Male,3,575.36,43.65,130.95,Two year,No,Bank transfer,1
+883,75,Male,5,76.38,69.57,347.84999999999997,One year,No,Bank transfer,0
+884,37,Female,6,382.58,67.97,407.82,One year,Yes,Credit card,0
+885,45,Male,1,367.73,60.51,60.51,Two year,No,Bank transfer,1
+886,25,Female,4,181.74,48.03,192.12,Two year,No,Bank transfer,0
+887,78,Male,3,435.51,93.03,279.09000000000003,Month-to-month,No,Bank transfer,1
+888,58,Male,2,332.1,47.18,94.36,Two year,No,Bank transfer,1
+889,56,Male,6,341.8,56.45,338.70000000000005,Two year,Yes,Mailed check,0
+890,18,Female,5,739.03,74.25,371.25,Two year,No,Mailed check,1
+891,20,Male,6,223.26,63.44,380.64,Month-to-month,No,Mailed check,0
+892,30,Female,4,641.86,47.75,191.0,Month-to-month,Yes,Mailed check,0
+893,45,Female,5,570.65,54.85,274.25,One year,Yes,Electronic check,0
+894,79,Male,4,568.09,83.56,334.24,Month-to-month,No,Mailed check,0
+895,74,Male,6,663.01,42.25,253.5,One year,Yes,Bank transfer,0
+896,77,Male,1,548.38,31.38,31.38,Two year,No,Mailed check,0
+897,66,Female,4,879.26,45.05,180.2,One year,Yes,Mailed check,1
+898,42,Male,5,675.58,87.96,439.79999999999995,One year,Yes,Credit card,1
+899,73,Female,5,546.96,27.12,135.6,Two year,No,Bank transfer,1
+900,50,Female,4,829.76,99.34,397.36,One year,Yes,Mailed check,0
+901,55,Male,9,606.15,63.28,569.52,Month-to-month,No,Mailed check,1
+902,70,Male,6,291.14,98.79,592.74,Month-to-month,Yes,Mailed check,1
+903,23,Female,9,207.09,95.12,856.08,Month-to-month,No,Electronic check,1
+904,75,Female,7,152.33,56.23,393.60999999999996,Month-to-month,Yes,Mailed check,1
+905,61,Female,6,899.46,35.88,215.28000000000003,One year,Yes,Credit card,0
+906,62,Male,4,710.14,33.19,132.76,One year,Yes,Bank transfer,0
+907,49,Female,0,937.38,39.2,0.0,Two year,Yes,Bank transfer,0
+908,62,Male,4,603.29,76.81,307.24,One year,Yes,Mailed check,0
+909,78,Female,9,473.4,41.84,376.56000000000006,One year,No,Mailed check,1
+910,64,Female,1,59.72,47.31,47.31,One year,Yes,Mailed check,1
+911,38,Male,4,671.64,55.9,223.6,Two year,No,Bank transfer,1
+912,33,Female,4,582.21,93.06,372.24,Month-to-month,No,Bank transfer,1
+913,71,Male,1,990.21,35.15,35.15,One year,No,Electronic check,1
+914,38,Male,4,239.16,20.4,81.6,Two year,Yes,Credit card,1
+915,28,Female,3,530.74,24.81,74.42999999999999,Two year,No,Electronic check,0
+916,77,Male,0,650.96,92.38,0.0,Two year,Yes,Credit card,0
+917,54,Male,2,644.59,71.8,143.6,Month-to-month,No,Electronic check,1
+918,53,Female,0,561.29,41.84,0.0,One year,No,Bank transfer,1
+919,52,Male,4,776.93,34.18,136.72,Two year,No,Electronic check,0
+920,36,Male,3,204.98,43.54,130.62,Month-to-month,No,Credit card,0
+921,37,Male,6,725.63,29.18,175.07999999999998,Two year,No,Mailed check,0
+922,74,Female,4,619.73,95.32,381.28,Two year,Yes,Credit card,1
+923,35,Male,9,896.08,82.74,744.66,Two year,No,Mailed check,0
+924,64,Female,3,847.19,56.99,170.97,Two year,No,Bank transfer,0
+925,58,Female,1,315.15,89.2,89.2,Two year,Yes,Credit card,1
+926,66,Male,3,276.24,39.96,119.88,Month-to-month,Yes,Electronic check,0
+927,31,Male,1,981.65,77.37,77.37,One year,Yes,Credit card,0
+928,32,Male,7,527.27,88.49,619.43,One year,No,Mailed check,1
+929,48,Female,2,906.42,48.54,97.08,One year,No,Bank transfer,0
+930,18,Male,8,163.88,80.6,644.8,One year,No,Electronic check,0
+931,70,Male,3,642.82,43.61,130.82999999999998,Month-to-month,No,Credit card,1
+932,71,Male,5,809.86,43.91,219.54999999999998,Month-to-month,No,Mailed check,0
+933,71,Male,9,947.4,28.56,257.03999999999996,Month-to-month,No,Electronic check,1
+934,20,Male,4,337.34,55.2,220.8,Two year,Yes,Bank transfer,0
+935,33,Female,9,724.98,78.38,705.42,Two year,Yes,Electronic check,0
+936,40,Female,0,538.81,95.22,0.0,Two year,No,Bank transfer,1
+937,74,Male,8,60.63,68.3,546.4,One year,No,Electronic check,0
+938,28,Male,0,690.0,89.05,0.0,Two year,No,Credit card,0
+939,29,Male,7,690.1,85.8,600.6,One year,No,Mailed check,1
+940,27,Male,8,930.61,33.87,270.96,Two year,No,Credit card,1
+941,49,Female,8,497.31,58.87,470.96,One year,Yes,Credit card,0
+942,33,Male,0,230.25,29.35,0.0,Two year,Yes,Bank transfer,1
+943,25,Female,1,44.56,74.57,74.57,Two year,No,Bank transfer,1
+944,55,Female,0,415.64,95.99,0.0,Month-to-month,Yes,Bank transfer,1
+945,29,Male,9,301.92,30.97,278.73,Two year,No,Credit card,0
+946,41,Female,1,761.09,78.71,78.71,Two year,No,Electronic check,0
+947,45,Female,9,354.27,70.58,635.22,Month-to-month,No,Electronic check,0
+948,70,Female,7,949.07,66.69,466.83,One year,Yes,Credit card,0
+949,25,Female,4,962.31,51.21,204.84,Month-to-month,Yes,Credit card,0
+950,75,Male,6,620.91,48.41,290.46,Month-to-month,No,Mailed check,1
+951,45,Male,1,928.66,23.62,23.62,One year,Yes,Bank transfer,1
+952,53,Female,7,760.85,37.43,262.01,Two year,Yes,Bank transfer,1
+953,43,Male,5,546.86,21.21,106.05000000000001,One year,No,Credit card,1
+954,25,Male,7,180.31,66.51,465.57000000000005,Two year,Yes,Credit card,0
+955,75,Male,0,458.6,28.47,0.0,Two year,Yes,Electronic check,1
+956,77,Male,0,560.87,89.84,0.0,One year,No,Credit card,1
+957,67,Male,6,863.96,61.85,371.1,Month-to-month,No,Electronic check,0
+958,45,Female,7,481.33,75.98,531.86,One year,Yes,Credit card,1
+959,45,Male,2,897.67,52.87,105.74,Two year,No,Mailed check,1
+960,54,Male,4,674.35,64.85,259.4,One year,Yes,Mailed check,0
+961,58,Male,0,137.0,95.41,0.0,One year,No,Electronic check,0
+962,53,Male,6,994.98,26.62,159.72,Two year,No,Bank transfer,0
+963,44,Female,4,527.23,40.32,161.28,Month-to-month,No,Mailed check,0
+964,71,Female,7,391.86,82.4,576.8000000000001,One year,No,Electronic check,0
+965,34,Female,7,659.11,27.9,195.29999999999998,Two year,Yes,Credit card,0
+966,26,Female,8,108.89,26.05,208.4,Two year,No,Credit card,0
+967,50,Male,6,636.54,48.92,293.52,One year,No,Electronic check,0
+968,70,Female,0,498.24,27.37,0.0,Month-to-month,No,Bank transfer,1
+969,37,Male,2,406.67,66.81,133.62,One year,Yes,Electronic check,0
+970,30,Male,7,953.02,38.1,266.7,Month-to-month,Yes,Electronic check,0
+971,45,Male,2,522.54,91.66,183.32,Month-to-month,No,Mailed check,1
+972,65,Male,7,219.12,82.68,578.76,Month-to-month,No,Electronic check,0
+973,46,Male,0,458.96,75.98,0.0,Month-to-month,No,Electronic check,0
+974,30,Female,4,919.39,69.36,277.44,One year,No,Credit card,1
+975,63,Female,3,176.1,89.08,267.24,Two year,No,Mailed check,0
+976,52,Female,4,213.96,37.84,151.36,Two year,No,Credit card,0
+977,78,Female,7,13.03,89.85,628.9499999999999,Two year,Yes,Credit card,0
+978,23,Male,9,14.19,83.16,748.4399999999999,Two year,No,Bank transfer,0
+979,35,Female,3,829.39,79.85,239.54999999999998,Two year,No,Bank transfer,0
+980,68,Male,3,732.12,64.9,194.70000000000002,Two year,No,Mailed check,0
+981,22,Female,2,355.04,39.7,79.4,One year,No,Mailed check,1
+982,64,Male,6,698.31,53.88,323.28000000000003,Month-to-month,No,Bank transfer,1
+983,42,Male,2,395.21,83.49,166.98,Two year,No,Bank transfer,1
+984,19,Female,2,952.9,22.54,45.08,One year,Yes,Bank transfer,0
+985,27,Male,9,967.05,82.56,743.04,Two year,Yes,Bank transfer,0
+986,73,Male,4,392.79,39.21,156.84,Two year,Yes,Bank transfer,0
+987,47,Female,4,854.22,31.54,126.16,Month-to-month,Yes,Credit card,0
+988,67,Male,5,773.09,29.26,146.3,Month-to-month,Yes,Mailed check,1
+989,76,Female,7,310.0,22.18,155.26,Month-to-month,Yes,Credit card,0
+990,62,Female,9,232.04,61.89,557.01,Two year,No,Credit card,0
+991,22,Female,5,458.23,37.46,187.3,Two year,No,Electronic check,1
+992,72,Male,0,781.35,99.15,0.0,Two year,No,Credit card,1
+993,73,Male,7,960.17,65.95,461.65000000000003,Month-to-month,No,Bank transfer,0
+994,50,Male,7,763.58,31.03,217.21,One year,No,Bank transfer,0
+995,71,Female,8,855.21,75.1,600.8,Two year,No,Electronic check,0
+996,18,Male,8,603.06,91.82,734.56,Two year,Yes,Electronic check,0
+997,35,Female,1,835.41,79.61,79.61,Two year,No,Electronic check,0
+998,49,Female,1,784.42,26.12,26.12,One year,Yes,Electronic check,0
+999,64,Male,2,376.99,91.67,183.34,Two year,Yes,Electronic check,0
+1000,66,Female,0,551.99,83.51,0.0,One year,No,Credit card,0
