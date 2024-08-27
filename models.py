@@ -20,13 +20,15 @@ def train_random_forest(X_train, y_train):
 def train_neural_network(X_train, y_train):
     """Train a Neural Network model using TensorFlow."""
     model = tf.keras.Sequential([
-        tf.keras.layers.Dense(64, activation='relu', input_shape=(X_train.shape[1],)),
+        tf.keras.layers.Input(shape=(X_train.shape[1],)),  # Use Input layer to define input shape
+        tf.keras.layers.Dense(64, activation='relu'),
         tf.keras.layers.Dense(32, activation='relu'),
         tf.keras.layers.Dense(1, activation='sigmoid')
     ])
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
     model.fit(X_train, y_train, epochs=50, batch_size=32, validation_split=0.2, verbose=0)
     return model
+
 
 def evaluate_model(model, X_test, y_test):
     """Evaluate a model's performance."""
